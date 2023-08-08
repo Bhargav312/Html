@@ -1,0 +1,17 @@
+<html>
+<head>
+	<title>list</title>
+</head>
+<body>
+	<ol type="1">
+	<li>BCA</li>
+		<ul>
+			<li>sem 1</li>
+			<li>sem 2</li>
+		</ul>
+	<li>BSC it</li>
+		<ul> 
+			<li>sem 1</li>
+			<li>sem 2</li>
+</body>
+</html>
